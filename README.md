@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad-Umer-NSC.
 - 👨‍🌾 I’m interested in Farming.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Web projects(basically any thing which will help me build my skills).
+- 💞️ I’m looking to collaborate on multiple projects(basically any thing which will help me build my skills).
 - 📫 Currently i have no social media accounts i will update it if anyone from the future is reading it.
 - ⚡ Fun fact: I don't know what to write here.
