@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Umer 👋
 
-**Aspiring SOC analyst & security engineer** focused on detection, threat analysis, and blue-team automation.
+**SOC analyst & security engineer** focused on detection, threat analysis, and blue-team automation.
 
 I learn by building: home labs, analysis tools, and write-ups I document step by step so others can follow along.
 
